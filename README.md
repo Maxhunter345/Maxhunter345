@@ -14,8 +14,12 @@
 
 </div>
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Maxhunter345/Maxhunter345/output/github-contribution-grid-snake-dark.svg" alt="Night-Vision Contribution Snake" width="100%" />
 </div>
+
+---
 
 ```bash
