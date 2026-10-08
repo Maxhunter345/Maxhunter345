@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mn-portofolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maxell+Nathanael;Software+Engineer+%26+Game+Developer;Available+for+Work+%F0%9F%9F%A2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Maxell+Nathanael" alt="Typing SVG" />
   </a>
   
   <p>
