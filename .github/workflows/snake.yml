@@ -2,16 +2,23 @@ name: Generate Snake Night-Vision
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:   
+  push:                
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+    permissions:
+      contents: write
 
-      - uses: Platane/snk@v3
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Maxhunter345
           outputs: |
